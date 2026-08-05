@@ -186,4 +186,4 @@ The Linear SVM model demonstrates strong performance on large-scale Twitter sent
 
 ## Author
 
-**Aditya**
+**Aditya Jain**
