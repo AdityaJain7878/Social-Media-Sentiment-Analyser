@@ -1,0 +1,13 @@
+# Dataset files
+training.1600000.processed.noemoticon.csv
+testdata.manual.2009.06.14.csv
+data/
+*.csv
+
+# Generated files
+models/
+*.pkl
+*.joblib
+
+# Jupyter files
+.ipynb_checkpoints/
